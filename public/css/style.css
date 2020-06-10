@@ -1,0 +1,61 @@
+.landingpage{
+    background-image: url('../images/homepage.jpg');
+    min-height: 100vh;
+}
+table{
+    opacity: 0.7;
+     }
+
+.contact{
+/* border-radius:5px;
+background-color: greenyellow; */
+    background-image:url('../images/contactbg.jpg');
+
+    min-height: 100vh;
+    padding-top:100px;
+
+}
+
+
+.create{
+    background-image: url('../images/contactbg.jpg');
+    min-height: 100vh;
+ 
+}
+
+.create-inner{
+    width: 400px;
+    margin:auto;
+    border: 1px solid;
+}
+
+.edit{
+    background-image: url('../images/edit.jpg');
+    min-height: 100vh;
+}
+
+.edit-inner{
+    width: 400px;
+    margin:auto;
+    border: 1px solid;
+    padding-top: 30px;
+}
+.profile{
+    border: 3px solid green;
+    border-radius: 10px;
+    width:350px;
+    height:400px;
+    margin:auto;
+    background-color: black;
+    opacity:0.7;
+    padding: 20px;
+
+  
+}
+.details{
+    font-size: 18px;
+    
+}
+.btndetails{
+    padding-top: 25px;
+}
